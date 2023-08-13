@@ -27,3 +27,6 @@ Contributions are welcome! If you find any issues or have improvements in mind, 
    
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of this license.
+
+## Preview
+<img width="897" alt="Screenshot 2023-08-13 214056" src="https://github.com/Aarzoo75/Realtime-Digital-Clock/assets/59678435/5ae89b8d-36a5-4216-9600-e6a4bbb7ac5f">
